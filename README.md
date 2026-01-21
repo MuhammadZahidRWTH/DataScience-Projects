@@ -4,7 +4,7 @@
 📊 Data Scientist | Machine Learning Engineer | Applied AI Specialist  
 📍 Aachen, Germany | Open to Full-time & Part-time Opportunities
 
-I am a Data Scientist with strong experience in **data analysis, machine learning, deep learning, NLP, and Generative AI**, focused on building **end-to-end data-driven solutions** — from raw data ingestion and feature engineering to model deployment and actionable business insights.  
+I am a Data Scientist with strong experience in **data analysis, machine learning, deep learning, NLP, and Generative AI**, focused on building **end-to-end data-driven solutions** from raw data ingestion and feature engineering to model deployment and actionable business insights.  
 I have a background in both **industrial research and applied AI systems**, with hands-on experience in **production-grade ML pipelines and scalable data workflows**.
 
 ---
@@ -84,7 +84,7 @@ I have a background in both **industrial research and applied AI systems**, with
 
 ## 🎓 Education
 
-- **M.Sc. Data Science** — RWTH Aachen University (2020–2025)  
+- **M.Sc. Data Science** — RWTH Aachen University (2025)  
   Courses: Machine Learning, Big Data Analytics, Database Systems, Artificial Intelligence  
 
 - **B.Sc. Computer Science (Dual Degree)** — COMSATS University & Lancaster University  
